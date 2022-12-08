@@ -1,2 +1,2 @@
 # my-git
-Testing repo for training purposes
+This project is used in Git & GitHub learning process as a training platform
